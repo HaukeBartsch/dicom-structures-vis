@@ -110,7 +110,7 @@ d3.json('data/dataDICOM2.json', function (err, response) {
                 });
             g.append('rect')
                 .attr('style', function (d) {
-                    var n = (parseInt(d.event.event) % 8);
+                    var n = (parseInt(d.event.event.replace(/\D/g, '')) % 8);
                     if (isNaN(n))
                         n = 0;
                     return 'stroke:' + colorbrewer2.Pastel1["9"][n] + ';fill:' + colorbrewer2.Pastel1["9"][n] + ';fill-opacity:0.5;';
