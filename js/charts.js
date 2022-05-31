@@ -85,7 +85,7 @@ d3.json('data/dataDICOM2.json', function (err, response) {
         .layout();
 
     // Get the extent so we can re-size the SVG appropriately.
-    svg.attr('height', narrative.extent()[1] + 10);
+    svg.attr('height', narrative.extent()[1] + 100);
 
     // Draw links
     svg.selectAll('.link').data(narrative.links()).enter()
@@ -111,6 +111,8 @@ d3.json('data/dataDICOM2.json', function (err, response) {
             g.append('rect')
                 .attr('style', function (d) {
                     var n = (parseInt(d.event.event) % 8);
+                    if (isNaN(n))
+                        n = 0;
                     return 'stroke:' + colorbrewer2.Pastel1["9"][n] + ';fill:' + colorbrewer2.Pastel1["9"][n] + ';fill-opacity:0.5;';
                 })
                 .attr('width', sceneWidth)
