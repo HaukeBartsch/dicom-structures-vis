@@ -1,0 +1,52 @@
+text {
+    font-family: "ProximaNova", Helvetica, Arial, sans-serif;
+    font-size: 10px;
+}
+
+text.textlabel {
+    font-family: "ProximaNova", Helvetica, Arial, sans-serif;
+    font-size: 8px;
+    fill: #999;
+}
+
+rect {
+    fill: #fff;
+    stroke: #600;
+}
+
+path {
+    fill: none;
+    stroke-width: 1.5;
+    stroke: #333;
+}
+
+path.light {
+    stroke: #3c6da8;
+}
+
+path.dark {
+    stroke: #df2929;
+}
+
+.intro text:first-child {
+    fill: #fff;
+    stroke: #f9f9f9;
+    stroke-width: 3;
+}
+
+.intro text+text {
+    fill: #333;
+}
+
+.intro text+text.dark {
+    fill: #df2929;
+}
+
+.intro text+text.light {
+    fill: #3c6da8;
+}
+
+svg {
+    margin-left: 10px;
+    padding-left: 10px;
+}

@@ -1,0 +1,365 @@
+{
+    "participants": [
+        {
+            "id": "LAR-BARN_1035",
+            "patientid": "LAR-BARN_1035",
+            "affiliation": "light"
+        },
+        {
+            "id": "LAR-BARN_1069",
+            "patientid": "LAR-BARN_1069",
+            "affiliation": "light"
+        }
+    ],
+    "events": [
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "5"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "6"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "7"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "8"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "9"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "10"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "11"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "12"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "13"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "14"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035",
+                "LAR-BARN_1069"
+            ],
+            "event": "01",
+            "seriesnumber": "15"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035"
+            ],
+            "event": "01",
+            "seriesnumber": "16"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035"
+            ],
+            "event": "01",
+            "seriesnumber": "17"
+        },
+        {
+            "participants": [
+                "LAR-BARN_1035"
+            ],
+            "event": "01",
+            "seriesnumber": "18"
+        }
+    ]
+}
