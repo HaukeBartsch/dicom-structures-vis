@@ -16,7 +16,7 @@ A common research imaging study might have between 3 and 20 image series with a 
 
 ### Visualization Projects
 
-The above numbers suggest that projects might have 60,0000 *5* 1,000 = 300,000,000 individual image objects as part of a hierarchical structure. Common workflows for such data are:
+The above numbers suggest that projects might have $60,0000 x 5 x 1,000 = 300,000,000$ individual image objects as part of a hierarchical structure. Common workflows for such data are:
 
 - Identify changes in imaging protocol over time
 - Identify subsets of participants that differ in their imaging protocol
@@ -29,4 +29,6 @@ Additionally to a project based visualization a visualization on the level of an
 - Help in scheduling by identify upcoming imaging event
 - Identify missing image series
 
-![Example generated structure](/images/example.png "Example structure for three participants")
+Below is an example plot for a research project with about 30 events and 26 participants.
+
+![Example generated structure](/images/example.png "Example structure for a project level display on the event level")
